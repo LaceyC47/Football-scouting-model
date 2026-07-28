@@ -1,0 +1,14 @@
+{
+  "input_file": "data/raw/players_data-2025_2026.csv",
+  "output_directory": "reports",
+  "minimum_minutes": 900,
+  "preferred_minimum_minutes": 1500,
+  "dm_position_tokens": [
+    "MF"
+  ],
+  "pure_midfielder_value": "MF",
+  "age_range_for_recruitment_view": [
+    18,
+    29
+  ]
+}

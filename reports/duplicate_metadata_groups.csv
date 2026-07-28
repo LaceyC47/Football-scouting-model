@@ -1,0 +1,11 @@
+canonical_field,column_count,columns
+Rk,5,Rk | Rk_stats_keeper | Rk_stats_shooting | Rk_stats_playing_time | Rk_stats_misc
+Nation,5,Nation | Nation_stats_keeper | Nation_stats_shooting | Nation_stats_playing_time | Nation_stats_misc
+Pos,5,Pos | Pos_stats_keeper | Pos_stats_shooting | Pos_stats_playing_time | Pos_stats_misc
+Comp,5,Comp | Comp_stats_keeper | Comp_stats_shooting | Comp_stats_playing_time | Comp_stats_misc
+Age,5,Age | Age_stats_keeper | Age_stats_shooting | Age_stats_playing_time | Age_stats_misc
+Born,5,Born | Born_stats_keeper | Born_stats_shooting | Born_stats_playing_time | Born_stats_misc
+MP,3,MP | MP_stats_keeper | MP_stats_playing_time
+Starts,3,Starts | Starts_stats_keeper | Starts_stats_playing_time
+Min,3,Min | Min_stats_keeper | Min_stats_playing_time
+90s,5,90s | 90s_stats_keeper | 90s_stats_shooting | 90s_stats_playing_time | 90s_stats_misc

@@ -1,0 +1,13 @@
+metric,value
+input_file,/mnt/data/players_data-2025_2026.csv
+sha256,1b4207d6438943bd6ad910394df9855835df036b81834f480efb8f40f5499750
+rows,2839
+columns,102
+unique_players,2687
+unique_squads,96
+unique_competitions,5
+age_min,15.0
+age_max,41.0
+minutes_median,1074.0
+broad_midfielder_pool,735
+pure_midfielder_pool,394

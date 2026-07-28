@@ -1,3 +1,1 @@
-"""Football scouting data pipeline."""
-
-__version__ = "0.2.0"
+"""Football scouting analytics package."""
