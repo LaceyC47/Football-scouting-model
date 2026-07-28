@@ -1,0 +1,7 @@
+check,status,failure_rows,detail
+required_columns_present,PASS,0,All present
+player_season_id_unique,PASS,0,IDs must be unique
+age_within_bounds,PASS,0,Expected 15-45
+minutes_consistent_with_90s,PASS,0,Tolerance 95 minutes
+minutes_non_negative,PASS,0,Minutes cannot be negative
+core_identity_complete,PASS,0,"Player, squad, competition and position required"

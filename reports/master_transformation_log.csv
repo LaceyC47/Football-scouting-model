@@ -1,0 +1,22 @@
+step,field,source_columns,rows_affected
+drop_exact_duplicates,all_columns,all_columns,0
+reconcile_metadata,Rk,Rk | Rk_stats_keeper | Rk_stats_shooting | Rk_stats_playing_time | Rk_stats_misc,0
+reconcile_metadata,Player,Player,0
+reconcile_metadata,Nation,Nation | Nation_stats_keeper | Nation_stats_shooting | Nation_stats_playing_time | Nation_stats_misc,0
+reconcile_metadata,Pos,Pos | Pos_stats_keeper | Pos_stats_shooting | Pos_stats_playing_time | Pos_stats_misc,0
+reconcile_metadata,Squad,Squad,0
+reconcile_metadata,Comp,Comp | Comp_stats_keeper | Comp_stats_shooting | Comp_stats_playing_time | Comp_stats_misc,0
+reconcile_metadata,Age,Age | Age_stats_keeper | Age_stats_shooting | Age_stats_playing_time | Age_stats_misc,0
+reconcile_metadata,Born,Born | Born_stats_keeper | Born_stats_shooting | Born_stats_playing_time | Born_stats_misc,0
+reconcile_metadata,MP,MP | MP_stats_keeper | MP_stats_playing_time,0
+reconcile_metadata,Starts,Starts | Starts_stats_keeper | Starts_stats_playing_time,0
+reconcile_metadata,Min,Min | Min_stats_keeper | Min_stats_playing_time,0
+reconcile_metadata,90s,90s | 90s_stats_keeper | 90s_stats_shooting | 90s_stats_playing_time | 90s_stats_misc,0
+standardise_text,Player,Player,0
+standardise_text,Nation,Nation,0
+standardise_text,Pos,Pos,0
+standardise_text,Squad,Squad,0
+standardise_text,Comp,Comp,0
+derive_positions,position_*,Pos,2839
+create_ids,player_id | player_season_id,Player | Born | Squad | Comp | season,2839
+derive_metrics,Gls_per90_derived | Ast_per90_derived | G+A_per90_derived | G-PK_per90_derived | PK_per90_derived | PKatt_per90_derived | Sh_per90_derived | SoT_per90_derived | TklW_per90_derived | Int_per90_derived | Fls_per90_derived | Fld_per90_derived | Off_per90_derived | Crs_per90_derived | OG_per90_derived | CrdY_per90_derived | CrdR_per90_derived | 2CrdY_per90_derived | minutes_band,90s and count fields,2839

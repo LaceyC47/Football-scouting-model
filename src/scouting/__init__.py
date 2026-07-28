@@ -1,1 +1,1 @@
-"""Football scouting analytics package."""
+"""Scouting package."""

@@ -1,0 +1,20 @@
+{
+  "input_file": "data/raw/players_data-2025_2026.csv",
+  "output_file": "data/processed/master_players.csv",
+  "season": "2025-2026",
+  "required_columns": [
+    "Player",
+    "Squad",
+    "Comp",
+    "Pos",
+    "Age",
+    "Min",
+    "90s"
+  ],
+  "age_bounds": [
+    15,
+    45
+  ],
+  "minutes_tolerance": 95,
+  "drop_exact_duplicate_rows": true
+}

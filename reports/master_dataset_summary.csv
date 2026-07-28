@@ -1,0 +1,12 @@
+metric,value
+source_rows,2839
+source_columns,102
+master_rows,2839
+master_columns,132
+exact_duplicate_rows_removed,0
+unique_players,2690
+unique_player_season_rows,2839
+competitions,5
+squads,96
+midfielder_rows,1539
+pure_midfielder_rows,922
