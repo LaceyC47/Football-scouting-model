@@ -1,0 +1,54 @@
+project:
+  season: "2025-2026"
+  minimum_minutes: 450
+  preferred_sheet: "Pure MF Pool"
+
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  exports: "data/exports"
+
+output:
+  master_csv: "master_player_seasons.csv"
+  quality_csv: "data_quality_report.csv"
+  review_csv: "rows_for_review.csv"
+
+column_aliases:
+  player:
+    - player
+    - player_name
+    - name
+  club:
+    - squad
+    - club
+    - team
+  competition:
+    - league
+    - competition
+    - comp
+  age:
+    - age
+  minutes:
+    - minutes
+    - min
+  nineties:
+    - 90s
+    - nineties
+  position:
+    - position
+    - pos
+  tackles_won_per90:
+    - tklw/90
+    - tackles_won_per90
+  interceptions_per90:
+    - int/90
+    - interceptions_per90
+  fouls_per90:
+    - fls/90
+    - fouls_per90
+  yellow_cards_per90:
+    - yc/90
+    - yellow_cards_per90
+  red_cards_per90:
+    - rc/90
+    - red_cards_per90

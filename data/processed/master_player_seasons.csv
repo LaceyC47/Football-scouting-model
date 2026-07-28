@@ -1,0 +1,4 @@
+player_season_id,player_id,player,club,competition,season,age,minutes,nineties,data_quality_flag,source_file,source_sheet,tackles_won_per90,interceptions_per90,fouls_per90,yellow_cards_per90,red_cards_per90
+eddebf88c61f3286,11797818b766b8c8,Carlos Baleba,Brighton,eng Premier League,2025-2026,21,1652,18.4,complete,sample_players.csv,,1.14,1.52,1.68,0.27,0
+698a474aa325e29f,5f07db8445e8f7a3,Kobbie Mainoo,Manchester Utd,eng Premier League,2025-2026,20,1662,18.5,complete,sample_players.csv,,1.08,1.03,0.65,0.11,0
+1c2409f8726f2ab3,eb5e6ab4afb8c4c0,Jon Gorrotxategi,Real Sociedad,es La Liga,2025-2026,23,2210,24.6,complete,sample_players.csv,,1.18,1.26,1.34,0.28,0
