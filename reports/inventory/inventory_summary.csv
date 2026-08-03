@@ -1,0 +1,10 @@
+metric,value
+parquet_files,312.0
+successful_files,312.0
+failed_files,0.0
+total_rows_across_files,3215144.0
+unique_columns,333.0
+source_types,13.0
+competitions,18.0
+seasons,3.0
+total_size_mb,65.78

@@ -1,1 +1,1 @@
-"""Scouting data inventory tools."""
+"""Football scouting master merge engine."""

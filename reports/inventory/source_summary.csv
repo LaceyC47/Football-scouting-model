@@ -1,0 +1,14 @@
+source_type,files,rows,columns_max,size_mb,errors
+understat_league_table,45,864,21,0.63,0
+sofascore_match_player_stats,30,434259,114,30.794,0
+sofascore_match_momentum,30,918842,5,1.234,0
+sofascore_match_shots,30,255454,17,5.972,0
+sofascore_match_info,30,10320,9,0.33399999999999996,0
+sofascore_season,30,18973,117,5.538,0
+sofascore_match_team_stats,30,1226127,19,9.88,0
+transfermarkt,25,39500,18,1.807,0
+understat_match_info,15,5255,12,0.289,0
+understat_rosters,15,162738,24,5.765,0
+understat_match_shots,15,133820,15,2.609,0
+understat_season,15,8326,21,0.897,0
+clubelo,2,666,8,0.026999999999999996,0

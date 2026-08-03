@@ -1,0 +1,26 @@
+{
+  "raw_data_directory": "C:/Users/calum/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages/data/raw",
+  "output_directory": "data/processed",
+  "report_directory": "reports/merge",
+  "seasons": [
+    "2023-2024",
+    "2024-2025",
+    "2025-2026"
+  ],
+  "minimum_match_minutes_for_aggregation": 1,
+  "fuzzy_match_threshold": 92,
+  "fuzzy_review_threshold": 84,
+  "include_competitions": [
+    "England Premier League",
+    "England EFL Championship",
+    "France Ligue 1",
+    "Germany Bundesliga",
+    "Italy Serie A",
+    "Netherlands Eredivisie",
+    "Portugal Primeira Liga",
+    "Spain La Liga",
+    "UEFA Champions League",
+    "UEFA Europa League"
+  ],
+  "write_csv": true
+}
