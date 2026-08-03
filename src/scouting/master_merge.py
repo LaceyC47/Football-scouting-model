@@ -459,9 +459,28 @@ def fuzzy_fill(
         if adjusted >= threshold:
             for column in payload:
                 if column not in result.columns:
-                    result[column] = np.nan
+                    # Preserve the source column type. Initialising every new
+                    # column with np.nan forces float64 and breaks when text
+                    # values such as source filenames are assigned later.
+                    source_dtype = source[column].dtype if column in source.columns else object
+                    if pd.api.types.is_numeric_dtype(source_dtype):
+                        result[column] = pd.Series(np.nan, index=result.index, dtype="float64")
+                    elif pd.api.types.is_datetime64_any_dtype(source_dtype):
+                        result[column] = pd.Series(pd.NaT, index=result.index, dtype="datetime64[ns]")
+                    elif pd.api.types.is_bool_dtype(source_dtype):
+                        result[column] = pd.Series(pd.NA, index=result.index, dtype="boolean")
+                    else:
+                        result[column] = pd.Series(pd.NA, index=result.index, dtype="object")
+
                 if pd.isna(result.at[idx, column]) and column in candidate.index:
-                    result.at[idx, column] = candidate[column]
+                    value = candidate[column]
+                    if (
+                        not pd.isna(value)
+                        and pd.api.types.is_numeric_dtype(result[column].dtype)
+                        and not isinstance(value, (int, float, np.integer, np.floating))
+                    ):
+                        result[column] = result[column].astype("object")
+                    result.at[idx, column] = value
             matched_rows.append(record)
         elif adjusted >= review_threshold:
             review_rows.append(record)
