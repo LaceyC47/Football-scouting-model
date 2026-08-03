@@ -1,5 +1,8 @@
 # v1.2 Fix
 
-- Fixed the duplicate `_source_file_x` / `_source_file_y` merge error.
-- Source traceability columns are now renamed before merging.
-- Added a regression test for sequential source joins.
+- Fixed `pandas.errors.MergeError` caused by repeated generic `_source_file` columns.
+- Each joined source now receives its own traceability column, such as:
+  - `sofascore_match_source_file`
+  - `understat_source_file`
+  - `transfermarkt_source_file`
+- Added a regression test covering the failure.

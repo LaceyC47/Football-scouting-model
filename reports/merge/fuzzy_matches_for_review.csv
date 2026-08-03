@@ -1,0 +1,294 @@
+source,base_player,base_team,candidate_player,candidate_team,competition,season,name_score,team_exact,adjusted_score
+sofascore_match,Junior Zé,FC Midtjylland,Júnior Brumado,FC Midtjylland,UEFA Europa League,2025-2026,85.5,True,90.5
+understat,Andy Robertson,Liverpool FC,Andrew Robertson,Liverpool,England Premier League,2023-2024,86.66666666666667,True,91.66666666666667
+understat,Pervis Estupiñán,Brighton & Hove Albion,Estupiñán,Brighton,England Premier League,2023-2024,90.0,False,90.0
+understat,Kostas Tsimikas,Liverpool FC,Konstantinos Tsimikas,Liverpool,England Premier League,2023-2024,83.33333333333334,True,88.33333333333334
+understat,Pape Matar Sarr,Tottenham Hotspur,Pape Sarr,Tottenham Hotspur,England Premier League,2023-2024,85.5,True,90.5
+understat,Đorđe Petrović,Chelsea,Djordje Petrovic,Chelsea,England Premier League,2023-2024,82.75862068965517,True,87.75862068965517
+understat,Joe Gomez,Liverpool FC,Joseph Gomez,Liverpool,England Premier League,2023-2024,85.71428571428572,True,90.71428571428572
+understat,Matty Cash,Aston Villa,Matthew Cash,Aston Villa,England Premier League,2023-2024,81.81818181818181,True,86.81818181818181
+understat,Bobby De Cordova-Reid,Fulham,Bobby Reid,Fulham,England Premier League,2023-2024,85.5,True,90.5
+understat,Tino Livramento,Newcastle United,Valentino Livramento,Newcastle United,England Premier League,2023-2024,85.71428571428572,True,90.71428571428572
+understat,Nayef Aguerd,West Ham United,Naif Aguerd,West Ham,England Premier League,2023-2024,86.95652173913044,False,86.95652173913044
+understat,Toti Gomes,Wolverhampton,Toti,Wolverhampton Wanderers,England Premier League,2023-2024,90.0,False,90.0
+understat,Ansu Fati,Brighton & Hove Albion,Anssumane Fati,Brighton,England Premier League,2023-2024,85.5,False,85.5
+understat,Jonny Otto,Wolverhampton,Jonny,Wolverhampton Wanderers,England Premier League,2023-2024,90.0,False,90.0
+understat,Ryan Giles,Luton Town,Ryan Gravenberch,Liverpool,England Premier League,2023-2024,85.5,False,85.5
+understat,Fodé Ballo-Touré,Fulham,Fode Toure,Fulham,England Premier League,2023-2024,85.5,True,90.5
+understat,Ben Gannon-Doak,Liverpool FC,Ben Doak,Liverpool,England Premier League,2023-2024,85.5,True,90.5
+understat,Kaine Kesler-Hayden,Aston Villa,Kaine Hayden,Aston Villa,England Premier League,2023-2024,85.5,True,90.5
+understat,Joe Johnson,Luton Town,Joseph Johnson,Luton,England Premier League,2023-2024,88.0,False,88.0
+understat,Savinho,Manchester City,Sávio,Manchester City,England Premier League,2024-2025,83.33333333333334,True,88.33333333333334
+understat,Abdul Fatawu Issahaku,Leicester City,Abdul Fatawu,Leicester,England Premier League,2024-2025,90.0,False,90.0
+understat,Kostas Tsimikas,Liverpool FC,Konstantinos Tsimikas,Liverpool,England Premier League,2024-2025,83.33333333333334,True,88.33333333333334
+understat,Pervis Estupiñán,Brighton & Hove Albion,Estupiñán,Brighton,England Premier League,2024-2025,90.0,False,90.0
+understat,Matty Cash,Aston Villa,Matthew Cash,Aston Villa,England Premier League,2024-2025,81.81818181818181,True,86.81818181818181
+understat,Toti Gomes,Wolverhampton,Toti,Wolverhampton Wanderers,England Premier League,2024-2025,90.0,False,90.0
+understat,Tino Livramento,Newcastle United,Valentino Livramento,Newcastle United,England Premier League,2024-2025,85.71428571428572,True,90.71428571428572
+understat,Joe Gomez,Liverpool FC,Joseph Gomez,Liverpool,England Premier League,2024-2025,85.71428571428572,True,90.71428571428572
+understat,Pape Matar Sarr,Tottenham Hotspur,Pape Sarr,Tottenham Hotspur,England Premier League,2024-2025,85.5,True,90.5
+understat,Andy Robertson,Liverpool FC,Andrew Robertson,Liverpool,England Premier League,2024-2025,86.66666666666667,True,91.66666666666667
+understat,Joe Aribo,Southampton,Joe Ayodele-Aribo,Southampton,England Premier League,2024-2025,85.5,True,90.5
+understat,Bobby De Cordova-Reid,Leicester City,Bobby Reid,Leicester,England Premier League,2024-2025,85.5,False,85.5
+understat,Altay Bayındır,Manchester United,Altay Bayindir,Manchester United,England Premier League,2024-2025,85.71428571428572,True,90.71428571428572
+understat,William Alves,Leicester City,Will Alves,Leicester,England Premier League,2024-2025,86.95652173913044,False,86.95652173913044
+understat,Đorđe Petrović,Bournemouth,Djordje Petrovic,Bournemouth,England Premier League,2025-2026,82.75862068965517,True,87.75862068965517
+understat,Matty Cash,Aston Villa,Matthew Cash,Aston Villa,England Premier League,2025-2026,81.81818181818181,True,86.81818181818181
+understat,Pape Matar Sarr,Tottenham Hotspur,Pape Sarr,Tottenham Hotspur,England Premier League,2025-2026,85.5,True,90.5
+understat,Tino Livramento,Newcastle United,Valentino Livramento,Newcastle United,England Premier League,2025-2026,85.71428571428572,True,90.71428571428572
+understat,Savinho,Manchester City,Sávio,Manchester City,England Premier League,2025-2026,83.33333333333334,True,88.33333333333334
+understat,Andy Robertson,Liverpool FC,Andrew Robertson,Liverpool,England Premier League,2025-2026,86.66666666666667,True,91.66666666666667
+understat,Altay Bayındır,Manchester United,Altay Bayindir,Manchester United,England Premier League,2025-2026,85.71428571428572,True,90.71428571428572
+understat,Fer López,Wolverhampton,Fernando López,Wolverhampton Wanderers,England Premier League,2025-2026,85.5,False,85.5
+understat,Joe Gomez,Liverpool FC,Joseph Gomez,Liverpool,England Premier League,2025-2026,85.71428571428572,True,90.71428571428572
+understat,Toti Gomes,Wolverhampton,Toti,Wolverhampton Wanderers,England Premier League,2025-2026,90.0,False,90.0
+understat,Ben Gannon-Doak,Bournemouth,Ben Doak,Bournemouth,England Premier League,2025-2026,85.5,True,90.5
+understat,Pablo Felipe,West Ham United,Pablo,West Ham,England Premier League,2025-2026,90.0,False,90.0
+understat,Trey Nyoni,Liverpool FC,Treymaurice Nyoni,Liverpool,England Premier League,2025-2026,85.5,True,90.5
+understat,Marc Guiu,Chelsea,Marc Cucurella,Chelsea,England Premier League,2025-2026,85.5,True,90.5
+understat,Nayef Aguerd,West Ham United,Naif Aguerd,West Ham,England Premier League,2025-2026,86.95652173913044,False,86.95652173913044
+understat,Wilfried Singo,AS Monaco,Wilfried Stephane Singo,Monaco,France Ligue 1,2023-2024,85.5,False,85.5
+understat,Jonathan David,Lille,Jonathan Christian David,Lille,France Ligue 1,2023-2024,85.5,True,90.5
+understat,Terem Moffi,Nice,Terem Igobor Moffi,Nice,France Ligue 1,2023-2024,85.5,True,90.5
+understat,Pape Gueye,Olympique de Marseille,Pape Alassane Gueye,Marseille,France Ligue 1,2023-2024,85.5,False,85.5
+understat,Yusuf Yazıcı,Lille,Yusuf Yazici,Lille,France Ligue 1,2023-2024,86.95652173913044,True,91.95652173913044
+understat,Mathias Pereira Lage,Stade Brestois,Pereira Lage,Brest,France Ligue 1,2023-2024,90.0,False,90.0
+understat,Eliesse Ben Seghir,AS Monaco,Ben Seghir,Monaco,France Ligue 1,2023-2024,90.0,False,90.0
+understat,Hianga'a M'Bock,Stade Brestois,Hianga&#039;a M&#039;Bock,Brest,France Ligue 1,2023-2024,85.5,False,85.5
+understat,Bertuğ Yıldırım,Stade Rennais,Hianga&#039;a M&#039;Bock,Brest,France Ligue 1,2023-2024,85.5,False,85.5
+understat,Joel Mugisha Mvuka,Lorient,Joel Mvuka,Lorient,France Ligue 1,2023-2024,85.5,True,90.5
+understat,Đorđe Petrović,RC Strasbourg,Djordje Petrovic,Strasbourg,France Ligue 1,2024-2025,82.75862068965517,True,87.75862068965517
+understat,Mathew Ryan,RC Lens,Mat Ryan,Lens,France Ligue 1,2024-2025,84.21052631578947,True,89.21052631578947
+understat,Jonathan David,Lille,Jonathan Christian David,Lille,France Ligue 1,2024-2025,85.5,True,90.5
+understat,Moatasem Al-Musrati,AS Monaco,Al Musrati,Monaco,France Ligue 1,2024-2025,90.0,False,90.0
+understat,Eliesse Ben Seghir,AS Monaco,Ben Seghir,Monaco,France Ligue 1,2024-2025,90.0,False,90.0
+understat,Wilfried Singo,AS Monaco,Wilfried Stephane Singo,Monaco,France Ligue 1,2024-2025,85.5,False,85.5
+understat,Mathias Pereira Lage,Stade Brestois,Pereira Lage,Brest,France Ligue 1,2024-2025,90.0,False,90.0
+understat,Abner Vinícius,Olympique Lyonnais,Abner,Lyon,France Ligue 1,2024-2025,90.0,False,90.0
+understat,Henrik Wendel Meister,Stade Rennais,Henrik Meister,Rennes,France Ligue 1,2024-2025,85.5,False,85.5
+understat,Tino Kadewere,Nantes,Tinotenda Kadewere,Nantes,France Ligue 1,2024-2025,83.87096774193549,True,88.87096774193549
+understat,Marwann Nzuzi,Saint-Étienne,Marwann N&#039;Zuzi,Saint-Etienne,France Ligue 1,2024-2025,83.87096774193549,True,88.87096774193549
+understat,Hianga'a M'Bock,Stade Brestois,Hianga&#039;a M&#039;Bock,Brest,France Ligue 1,2024-2025,85.5,False,85.5
+understat,Benjamin Old,Saint-Étienne,Benjamin Bouchouari,Saint-Etienne,France Ligue 1,2024-2025,85.5,True,90.5
+understat,Terem Moffi,Nice,Terem Igobor Moffi,Nice,France Ligue 1,2024-2025,85.5,True,90.5
+understat,Elye Wahi,Olympique de Marseille,Sepe Elye Wahi,Marseille,France Ligue 1,2024-2025,90.0,False,90.0
+understat,Fodé Ballo-Touré,Le Havre,Fode Toure,Le Havre,France Ligue 1,2024-2025,85.5,True,90.5
+understat,Nayef Aguerd,Olympique de Marseille,Naif Aguerd,Marseille,France Ligue 1,2025-2026,86.95652173913044,False,86.95652173913044
+understat,Hilan Hamzaoui Slimani,Olympique de Marseille,Hilan Slimani,Marseille,France Ligue 1,2025-2026,85.5,False,85.5
+understat,Ansu Fati,AS Monaco,Anssumane Fati,Monaco,France Ligue 1,2025-2026,85.5,False,85.5
+understat,Abner Vinícius,Olympique Lyonnais,Abner,Lyon,France Ligue 1,2025-2026,90.0,False,90.0
+understat,Conrad Jaden Egan-Riley,Olympique de Marseille,CJ Egan-Riley,Marseille,France Ligue 1,2025-2026,85.5,False,85.5
+understat,Eric Ebimbe,Stade Brestois,Eric Junior Dina Ebimbe,Brest,France Ligue 1,2025-2026,85.5,False,85.5
+understat,Joel Mugisha Mvuka,Lorient,Joel Mvuka,Lorient,France Ligue 1,2025-2026,85.5,True,90.5
+understat,Terem Moffi,Nice,Terem Igobor Moffi,Nice,France Ligue 1,2025-2026,85.5,True,90.5
+understat,Ibrahim Yayiya Kante,Stade Brestois,Ibrahim Mbaye,Paris Saint Germain,France Ligue 1,2025-2026,85.5,False,85.5
+understat,Fodé Ballo-Touré,Metz,Fode Toure,Metz,France Ligue 1,2025-2026,85.5,True,90.5
+understat,Elias Legendre Quiñonez Zae,Stade Rennais,Elias Legendre,Rennes,France Ligue 1,2025-2026,90.0,False,90.0
+understat,Kevin Carlos Omoruyi,Nice,Kevin Omoruyi,Nice,France Ligue 1,2025-2026,85.5,True,90.5
+understat,Ugo Lamare El Kadmiri,Olympique de Marseille,Ugo Raghouber,Lille,France Ligue 1,2025-2026,85.5,False,85.5
+understat,Eliesse Ben Seghir,AS Monaco,Ben Seghir,Monaco,France Ligue 1,2025-2026,90.0,False,90.0
+understat,Noah Mbamba,Bayer 04 Leverkusen,Noah Mbamba-Muanda,Bayer Leverkusen,Germany Bundesliga,2023-2024,90.0,False,90.0
+understat,Leandro Barreiro,1. FSV Mainz 05,Leandro Barreiro Martins,Mainz 05,Germany Bundesliga,2023-2024,90.0,False,90.0
+understat,Dayot Upamecano,Bayern München,Dayotchanculle Upamecano,Bayern München,Germany Bundesliga,2023-2024,85.5,True,90.5
+understat,Eric Ebimbe,Eintracht Frankfurt,Eric Junior Dina Ebimbe,Eintracht Frankfurt,Germany Bundesliga,2023-2024,85.5,True,90.5
+understat,Joakim Mæhle,VfL Wolfsburg,Joakim Maehle,Wolfsburg,Germany Bundesliga,2023-2024,88.0,False,88.0
+understat,Nathan N'Goumou,Borussia M'gladbach,Nathan N&#039;Goumou Minpol,Borussia M.Gladbach,Germany Bundesliga,2023-2024,85.5,True,90.5
+understat,Dion Drena Beljo,FC Augsburg,Dion Beljo,Augsburg,Germany Bundesliga,2023-2024,85.5,True,90.5
+understat,Omar Haktab Traore,1. FC Heidenheim,Omar Traoré,FC Heidenheim,Germany Bundesliga,2023-2024,85.5,False,85.5
+understat,Jean-Mattéo Bahoya,Eintracht Frankfurt,Jean Négoce,Eintracht Frankfurt,Germany Bundesliga,2023-2024,85.5,True,90.5
+understat,Kofi Jeremy Amoako,VfL Wolfsburg,Kofi Amoako,Wolfsburg,Germany Bundesliga,2023-2024,85.5,False,85.5
+understat,Dayot Upamecano,Bayern München,Dayotchanculle Upamecano,Bayern München,Germany Bundesliga,2024-2025,85.5,True,90.5
+understat,Jean-Mattéo Bahoya,Eintracht Frankfurt,Jean Négoce,Eintracht Frankfurt,Germany Bundesliga,2024-2025,85.5,True,90.5
+understat,Joakim Mæhle,VfL Wolfsburg,Joakim Maehle,Wolfsburg,Germany Bundesliga,2024-2025,88.0,False,88.0
+understat,Nathan N'Goumou,Borussia M'gladbach,Nathan N&#039;Goumou Minpol,Borussia M.Gladbach,Germany Bundesliga,2024-2025,85.5,True,90.5
+understat,Keke Topp,SV Werder Bremen,Keke Maximilian Topp,Werder Bremen,Germany Bundesliga,2024-2025,85.5,True,90.5
+understat,Tom Alexander Rothe,1. FC Union Berlin,Tom Bischof,Hoffenheim,Germany Bundesliga,2024-2025,85.5,False,85.5
+understat,Eric Ebimbe,Eintracht Frankfurt,Eric Junior Dina Ebimbe,Eintracht Frankfurt,Germany Bundesliga,2024-2025,85.5,True,90.5
+understat,Maximilian Rosenfelder,SC Freiburg,Max Rosenfelder,Freiburg,Germany Bundesliga,2024-2025,81.08108108108108,True,86.08108108108108
+understat,Omar Haktab Traore,1. FC Heidenheim,Omar Traoré,FC Heidenheim,Germany Bundesliga,2024-2025,85.5,False,85.5
+understat,Erencan Yardımcı,TSG Hoffenheim,Erencan Yardimci,Hoffenheim,Germany Bundesliga,2024-2025,90.32258064516128,False,90.32258064516128
+understat,Dayot Upamecano,Bayern München,Dayotchanculle Upamecano,Bayern München,Germany Bundesliga,2025-2026,85.5,True,90.5
+understat,Jean-Mattéo Bahoya,Eintracht Frankfurt,Jean Négoce,Eintracht Frankfurt,Germany Bundesliga,2025-2026,85.5,True,90.5
+understat,Eliesse Ben Seghir,Bayer 04 Leverkusen,Ben Seghir,Bayer Leverkusen,Germany Bundesliga,2025-2026,90.0,False,90.0
+understat,Silas,1. FSV Mainz 05,Silas Wamangituka,Mainz 05,Germany Bundesliga,2025-2026,90.0,False,90.0
+understat,Joakim Mæhle,VfL Wolfsburg,Joakim Maehle,Wolfsburg,Germany Bundesliga,2025-2026,88.0,False,88.0
+understat,Tom Alexander Rothe,1. FC Union Berlin,Tom Bischof,Bayern München,Germany Bundesliga,2025-2026,85.5,False,85.5
+understat,Maximilian Rosenfelder,SC Freiburg,Max Rosenfelder,Freiburg,Germany Bundesliga,2025-2026,81.08108108108108,True,86.08108108108108
+understat,Maycon Cardozo,Bayern München,Maycon Douglas Cardozo,Bayern München,Germany Bundesliga,2025-2026,85.5,True,90.5
+understat,Omar Haktab Traore,1. FC Heidenheim,Omar Traoré,FC Heidenheim,Germany Bundesliga,2025-2026,85.5,False,85.5
+understat,Keke Topp,SV Werder Bremen,Keke Maximilian Topp,Werder Bremen,Germany Bundesliga,2025-2026,85.5,True,90.5
+understat,Simon Kjær,AC Milan,Simon Kjaer,AC Milan,Italy Serie A,2023-2024,85.71428571428572,True,90.71428571428572
+understat,Daniel Maldini,Monza,Jean-Daniel Akpa-Akpro,Monza,Italy Serie A,2023-2024,85.5,True,90.5
+understat,Kenan Yıldız,Juventus,Kenan Yildiz,Juventus,Italy Serie A,2023-2024,83.33333333333334,True,88.33333333333334
+understat,Dario D'Ambrosio,Monza,Danilo D&#039;Ambrosio,Monza,Italy Serie A,2023-2024,81.08108108108108,True,86.08108108108108
+understat,Thomas Kristensen,Udinese,Thomas Thiesson Kristensen,Udinese,Italy Serie A,2023-2024,85.5,True,90.5
+understat,Konstantinos Manolas,Salernitana,Kostas Manolas,Salernitana,Italy Serie A,2023-2024,82.35294117647058,True,87.35294117647058
+understat,Zeki Çelik,AS Roma,Mehmet Zeki Çelik,Roma,Italy Serie A,2023-2024,90.0,False,90.0
+understat,Papu Gómez,Monza,Alejandro Gomez,Monza,Italy Serie A,2023-2024,85.5,True,90.5
+understat,Emil Konradsen Ceide,Sassuolo,Emil Ceïde,Sassuolo,Italy Serie A,2023-2024,85.5,True,90.5
+understat,Lapo Nava,AC Milan,Lapo Francesco Maria Nava,AC Milan,Italy Serie A,2023-2024,85.5,True,90.5
+understat,Kenan Yıldız,Juventus,Kenan Yildiz,Juventus,Italy Serie A,2024-2025,83.33333333333334,True,88.33333333333334
+understat,Matías Soulé,AS Roma,Matìas Soulè Malvano,Roma,Italy Serie A,2024-2025,90.0,False,90.0
+understat,Marc Kempf,Como,Marc-Oliver Kempf,Como,Italy Serie A,2024-2025,85.5,True,90.5
+understat,Zeki Çelik,AS Roma,Mehmet Zeki Çelik,Roma,Italy Serie A,2024-2025,90.0,False,90.0
+understat,Milan Đurić,Parma,Milan Djuric,"Monza,Parma Calcio 1913",Italy Serie A,2024-2025,90.9090909090909,False,90.9090909090909
+understat,Tino Anjorin,Empoli,Faustino Anjorin,Empoli,Italy Serie A,2024-2025,85.71428571428572,True,90.71428571428572
+understat,Anastasios Douvikas,Como,Tasos Douvikas,Como,Italy Serie A,2024-2025,84.84848484848484,True,89.84848484848484
+understat,Thomas Kristensen,Udinese,Thomas Thiesson Kristensen,Udinese,Italy Serie A,2024-2025,85.5,True,90.5
+understat,Cheick Oumar Condé,Venezia,Cheick Conde,Venezia,Italy Serie A,2024-2025,85.5,True,90.5
+understat,Franco Carboni,Venezia,Franco Ezequiel Carboni,Venezia,Italy Serie A,2024-2025,85.5,True,90.5
+understat,Bob Murphy Omoregbe,AC Milan,Bob Omoregbe,AC Milan,Italy Serie A,2024-2025,85.5,True,90.5
+understat,Ben Lhassine Kone,Como,Ben Kone,Como,Italy Serie A,2024-2025,85.5,True,90.5
+understat,Maat Daniel Caprini,Fiorentina,Maat Caprini,Fiorentina,Italy Serie A,2024-2025,85.5,True,90.5
+understat,Kenan Yıldız,Juventus,Kenan Yildiz,Juventus,Italy Serie A,2025-2026,83.33333333333334,True,88.33333333333334
+understat,Matías Soulé,AS Roma,Matìas Soulè Malvano,Roma,Italy Serie A,2025-2026,90.0,False,90.0
+understat,Marc Kempf,Como,Marc-Oliver Kempf,Como,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Thomas Kristensen,Udinese,Thomas Thiesson Kristensen,Udinese,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Anastasios Douvikas,Como,Tasos Douvikas,Como,Italy Serie A,2025-2026,84.84848484848484,True,89.84848484848484
+understat,Zeki Çelik,AS Roma,Mehmet Zeki Çelik,Roma,Italy Serie A,2025-2026,90.0,False,90.0
+understat,Alexsandro Amorim,Genoa,Alex Amorim,Genoa,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Moatasem Al-Musrati,Hellas Verona,Al Musrati,Verona,Italy Serie A,2025-2026,90.0,False,90.0
+understat,Nicolas-Gerrit Kühn,Como,Nicolas Kühn,Como,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Tino Anjorin,Torino,Faustino Anjorin,Torino,Italy Serie A,2025-2026,85.71428571428572,True,90.71428571428572
+understat,Semih Kılıçsoy,Cagliari,Semih Kiliçsoy,Cagliari,Italy Serie A,2025-2026,85.71428571428572,True,90.71428571428572
+understat,Giovane,SSC Napoli,Giovanni Di Lorenzo,Napoli,Italy Serie A,2025-2026,83.07692307692308,True,88.07692307692308
+understat,Franco Carboni,Parma,Franco Ezequiel Carboni,Parma Calcio 1913,Italy Serie A,2025-2026,85.5,False,85.5
+understat,Henrik Wendel Meister,Pisa,Henrik Meister,Pisa,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Jonathan David,Juventus,Jonathan Christian David,Juventus,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Vakoun Issouf Bayo,Udinese,Vakoun Bayo,Udinese,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Joi Xheto Nuredini,Genoa,Joi Nuredini,Genoa,Italy Serie A,2025-2026,85.5,True,90.5
+understat,Savinho,Girona FC,Sávio,Girona,Spain La Liga,2023-2024,83.33333333333334,True,88.33333333333334
+understat,Luis Javier Suárez,Almería,Luis Suárez,Almeria,Spain La Liga,2023-2024,85.5,True,90.5
+understat,José Luis Gayà,Valencia,José Gayá,Valencia,Spain La Liga,2023-2024,85.5,True,90.5
+understat,Srđan Babić,Almería,Srdjan Babic,Almeria,Spain La Liga,2023-2024,86.95652173913044,True,91.95652173913044
+understat,Pathé Ismaël Ciss,Rayo Vallecano,Pathé Ciss,Rayo Vallecano,Spain La Liga,2023-2024,85.5,True,90.5
+understat,Alejandro Balde,FC Barcelona,Álex Balde,Barcelona,Spain La Liga,2023-2024,85.5,True,90.5
+understat,Javi López,Deportivo Alavés,Javier López,Alaves,Spain La Liga,2023-2024,90.9090909090909,False,90.9090909090909
+understat,Anastasios Douvikas,Celta Vigo,Tasos Douvikas,Celta Vigo,Spain La Liga,2023-2024,84.84848484848484,True,89.84848484848484
+understat,José Manuel Arnáiz,Osasuna,José Arnáiz,Osasuna,Spain La Liga,2023-2024,85.5,True,90.5
+understat,Miguel Rubio,Granada,Miguel Ángel Rubio,Granada,Spain La Liga,2023-2024,85.5,True,90.5
+understat,Iza Carcelén,Cádiz,Isaac Carcelén,Cadiz,Spain La Liga,2023-2024,84.61538461538461,True,89.61538461538461
+understat,Maximiliano Gómez,Cádiz,Maxi Gómez,Cadiz,Spain La Liga,2023-2024,85.5,True,90.5
+understat,Ansu Fati,FC Barcelona,Anssumane Fati,Barcelona,Spain La Liga,2023-2024,85.5,True,90.5
+understat,Adrià Altimira,Villarreal,Adrià Alti,Villarreal,Spain La Liga,2023-2024,83.33333333333334,True,88.33333333333334
+understat,Abde Raihani,Atlético Madrid,Abdellah Raihani,Atletico Madrid,Spain La Liga,2023-2024,85.71428571428572,True,90.71428571428572
+understat,Nayef Aguerd,Real Sociedad,Naif Aguerd,Real Sociedad,Spain La Liga,2024-2025,86.95652173913044,True,91.95652173913044
+understat,Pape Gueye,Villarreal,Pape Alassane Gueye,Villarreal,Spain La Liga,2024-2025,85.5,True,90.5
+understat,José Luis Gayà,Valencia,José Gayá,Valencia,Spain La Liga,2024-2025,85.5,True,90.5
+understat,Alejandro Balde,FC Barcelona,Álex Balde,Barcelona,Spain La Liga,2024-2025,85.5,True,90.5
+understat,Toni Martínez,Deportivo Alavés,Antonio Martínez,Alaves,Spain La Liga,2024-2025,89.65517241379311,False,89.65517241379311
+understat,Pathé Ismaël Ciss,Rayo Vallecano,Pathé Ciss,Rayo Vallecano,Spain La Liga,2024-2025,85.5,True,90.5
+understat,Ansu Fati,FC Barcelona,Anssumane Fati,Barcelona,Spain La Liga,2024-2025,85.5,True,90.5
+understat,Fer López,Celta Vigo,Fernando López,Celta Vigo,Spain La Liga,2024-2025,85.5,True,90.5
+understat,Bertuğ Yıldırım,Getafe,Bertug Yildirim,Getafe,Spain La Liga,2024-2025,80.0,True,85.0
+understat,Adrià Altimira,Leganés,Adrià Alti,Leganes,Spain La Liga,2024-2025,83.33333333333334,True,88.33333333333334
+understat,Pau Cabanes,Deportivo Alavés,Pau Cabanes De La Torre,"Alaves,Villarreal",Spain La Liga,2024-2025,90.0,False,90.0
+understat,Papa Ba,Girona FC,Papa Dame Ba,Girona,Spain La Liga,2024-2025,85.5,True,90.5
+understat,José Manuel Arnáiz,Osasuna,José Arnáiz,Osasuna,Spain La Liga,2024-2025,85.5,True,90.5
+understat,Anastasios Douvikas,Celta Vigo,Tasos Douvikas,Celta Vigo,Spain La Liga,2024-2025,84.84848484848484,True,89.84848484848484
+understat,Hugo Novoa,Deportivo Alavés,Hugo Novoa Ramos,Alaves,Spain La Liga,2024-2025,90.0,False,90.0
+understat,Fran González,Real Madrid,Francisco González,Real Madrid,Spain La Liga,2024-2025,83.87096774193549,True,88.87096774193549
+understat,Pablo Cunat Campos,Levante UD,Pablo Cuñat,Levante,Spain La Liga,2025-2026,90.0,False,90.0
+understat,Mathew Ryan,Levante UD,Mat Ryan,Levante,Spain La Liga,2025-2026,84.21052631578947,False,84.21052631578947
+understat,Pape Gueye,Villarreal,Pape Alassane Gueye,Villarreal,Spain La Liga,2025-2026,85.5,True,90.5
+understat,Pathé Ismaël Ciss,Rayo Vallecano,Pathé Ciss,Rayo Vallecano,Spain La Liga,2025-2026,85.5,True,90.5
+understat,Adrià Altimira,Villarreal,Adrià Alti,Villarreal,Spain La Liga,2025-2026,83.33333333333334,True,88.33333333333334
+understat,Toni Martínez,Deportivo Alavés,Antonio Martínez,Alaves,Spain La Liga,2025-2026,89.65517241379311,False,89.65517241379311
+understat,Fer López,Celta Vigo,Fernando López,Celta Vigo,Spain La Liga,2025-2026,85.5,True,90.5
+understat,Jon Pacheco,Deportivo Alavés,Jon Pacheco Dozagarat,Alaves,Spain La Liga,2025-2026,90.0,False,90.0
+understat,Miguel Rubio,Espanyol,Miguel Ángel Rubio,Espanyol,Spain La Liga,2025-2026,85.5,True,90.5
+understat,Abdel Abqar,Getafe,Abdelkabir Abqar,Getafe,Spain La Liga,2025-2026,81.4814814814815,True,86.4814814814815
+understat,Alejandro Balde,FC Barcelona,Álex Balde,Barcelona,Spain La Liga,2025-2026,85.5,True,90.5
+understat,José Luis Morales,Levante UD,Morales,Levante,Spain La Liga,2025-2026,90.0,False,90.0
+understat,Jonny Otto,Deportivo Alavés,Jonny,Alaves,Spain La Liga,2025-2026,90.0,False,90.0
+understat,Calebe Gonçalves,Deportivo Alavés,Calebe,Alaves,Spain La Liga,2025-2026,90.0,False,90.0
+understat,José Luis Gayà,Valencia,José Gayá,Valencia,Spain La Liga,2025-2026,85.5,True,90.5
+understat,Miguel Ángel Sierra Ortega,Sevilla,Miguel Sierra,Sevilla,Spain La Liga,2025-2026,85.5,True,90.5
+understat,Mariano Díaz,Deportivo Alavés,Mariano,Alaves,Spain La Liga,2025-2026,90.0,False,90.0
+transfermarkt,James Ward-Prowse,Southampton,James Bree,Southampton,England EFL Championship,2023-2024,85.5,True,90.5
+transfermarkt,Abdul Fatawu Issahaku,Leicester City,Abdul Fatawu,Ipswich,England EFL Championship,2023-2024,90.0,False,90.0
+transfermarkt,Wanya Marcal Madivadua,Leicester City,Wanya Marçal,Without Club,England EFL Championship,2023-2024,90.0,False,90.0
+transfermarkt,Thomas Bloxham,Blackburn Rovers,Tom Bloxham,GC Zürich U21,England EFL Championship,2023-2024,88.0,False,88.0
+transfermarkt,Nathaniel Phillips,Cardiff City,Nat Phillips,West Brom,England EFL Championship,2023-2024,85.5,False,85.5
+transfermarkt,Christ Junior Tiehi,Rotherham United,Junior Firpo,Real Betis,England EFL Championship,2023-2024,85.5,False,85.5
+transfermarkt,Benjamin Nelson,Leicester City,Ben Nelson,Leicester,England EFL Championship,2023-2024,85.5,False,85.5
+transfermarkt,Emil Riis Jacobsen,Preston North End,Emil Riis,Bristol City,England EFL Championship,2023-2024,90.0,False,90.0
+transfermarkt,Samuel Parker,Swansea City,Sam Parker,Wycombe,England EFL Championship,2023-2024,86.95652173913044,False,86.95652173913044
+transfermarkt,Thomas Cannon,Leicester City,Tom Cannon,Sheff Utd,England EFL Championship,2023-2024,86.95652173913044,False,86.95652173913044
+transfermarkt,Daniel Ward,Huddersfield Town,James Ward-Prowse,West Ham,England EFL Championship,2023-2024,85.5,False,85.5
+transfermarkt,Leo Fuhr Hjelde,Sunderland,Leo Hjelde,Sunderland,England EFL Championship,2023-2024,85.5,True,90.5
+transfermarkt,Joseph Gubbins,Queens Park Rangers,Joe Gubbins,Yeovil Town,England EFL Championship,2023-2024,88.0,False,88.0
+transfermarkt,Nathaniel Phillips,Derby County,Nat Phillips,West Brom,England EFL Championship,2024-2025,85.5,False,85.5
+transfermarkt,Solomon Brynn,Middlesbrough,Sol Brynn,Middlesbrough,England EFL Championship,2024-2025,81.81818181818181,True,86.81818181818181
+transfermarkt,Thomas Holmes,Luton Town,Tom Holmes,Luton,England EFL Championship,2024-2025,86.95652173913044,False,86.95652173913044
+transfermarkt,Thomas Cannon,Sheffield United,Tom Cannon,Sheff Utd,England EFL Championship,2024-2025,86.95652173913044,False,86.95652173913044
+transfermarkt,William Fish,Cardiff City,Will Fish,Cardiff,England EFL Championship,2024-2025,85.71428571428572,False,85.71428571428572
+transfermarkt,William Alves,Cardiff City,Will Alves,Leicester,England EFL Championship,2024-2025,86.95652173913044,False,86.95652173913044
+transfermarkt,Emil Riis Jacobsen,Preston North End,Emil Riis,Bristol City,England EFL Championship,2024-2025,90.0,False,90.0
+transfermarkt,Eric Bocat,Stoke City,Eric-Junior Bocat,Stoke City,England EFL Championship,2024-2025,85.5,True,90.5
+transfermarkt,Leo Fuhr Hjelde,Sunderland,Leo Hjelde,Sunderland,England EFL Championship,2024-2025,85.5,True,90.5
+transfermarkt,Gabriel Forsyth,Norwich City,Gabe Forsyth,Norwich,England EFL Championship,2024-2025,88.88888888888889,False,88.88888888888889
+transfermarkt,Lasse Selvåg Nordås,Luton Town,Lasse Nordås,Luton,England EFL Championship,2024-2025,85.5,False,85.5
+transfermarkt,Hevertton Santos,Queens Park Rangers,Hevertton,Levski Sofia,England EFL Championship,2024-2025,90.0,False,90.0
+transfermarkt,Samuel Parker,Swansea City,Sam Parker,Wycombe,England EFL Championship,2024-2025,86.95652173913044,False,86.95652173913044
+transfermarkt,Leonard Duru,Blackburn Rovers,Leo Duru,Without Club,England EFL Championship,2024-2025,85.5,False,85.5
+transfermarkt,William Mannion,Charlton Athletic,Will Mannion,Charlton,England EFL Championship,2025-2026,88.88888888888889,False,88.88888888888889
+transfermarkt,Nathaniel Phillips,West Bromwich Albion,Nat Phillips,West Brom,England EFL Championship,2025-2026,85.5,False,85.5
+transfermarkt,Abdul Fatawu Issahaku,Leicester City,Abdul Fatawu,Ipswich,England EFL Championship,2025-2026,90.0,False,90.0
+transfermarkt,Robert Apter,Charlton Athletic,Rob Apter,Charlton,England EFL Championship,2025-2026,85.71428571428572,False,85.71428571428572
+transfermarkt,Samuel Parker,Swansea City,Sam Parker,Wycombe,England EFL Championship,2025-2026,86.95652173913044,False,86.95652173913044
+transfermarkt,Myles Peart-Harris,Oxford United,Mark Harris,Oxford United,England EFL Championship,2025-2026,85.5,True,90.5
+transfermarkt,Leo Fuhr Hjelde,Sheffield United,Leo Hjelde,Sunderland,England EFL Championship,2025-2026,85.5,False,85.5
+transfermarkt,Solomon Brynn,Middlesbrough,Sol Brynn,Middlesbrough,England EFL Championship,2025-2026,81.81818181818181,True,86.81818181818181
+transfermarkt,John Lundstram,Hull City,John Egan,Hull City,England EFL Championship,2025-2026,85.5,True,90.5
+transfermarkt,Benjamin Nelson,Leicester City,Ben Nelson,Leicester,England EFL Championship,2025-2026,85.5,False,85.5
+transfermarkt,Aune Selland Heggebø,West Bromwich Albion,Aune Heggebø,West Brom,England EFL Championship,2025-2026,85.5,False,85.5
+transfermarkt,Thomas Cannon,Sheffield United,Tom Cannon,Sheff Utd,England EFL Championship,2025-2026,86.95652173913044,False,86.95652173913044
+transfermarkt,Eric Bocat,Stoke City,Eric-Junior Bocat,Stoke City,England EFL Championship,2025-2026,85.5,True,90.5
+transfermarkt,Matthew Litherland,Blackburn Rovers,Matty Litherland,Blackburn U21,England EFL Championship,2025-2026,88.23529411764706,False,88.23529411764706
+transfermarkt,Oliver Bostock,West Bromwich Albion,Ollie Bostock,West Brom,England EFL Championship,2025-2026,88.88888888888889,False,88.88888888888889
+transfermarkt,Isak Alemayehu Mulugeta,Queens Park Rangers,Isak Alemayehu,QPR U21,England EFL Championship,2025-2026,90.0,False,90.0
+transfermarkt,Jack James Walton,Preston North End,Jack Taylor,Ipswich,England EFL Championship,2025-2026,85.5,False,85.5
+transfermarkt,Trent Alexander-Arnold,Liverpool FC,Alexander Isak,Liverpool,England Premier League,2023-2024,85.5,True,90.5
+transfermarkt,Kostas Tsimikas,Liverpool FC,Konstantinos Tsimikas,Liverpool,England Premier League,2023-2024,83.33333333333334,True,88.33333333333334
+transfermarkt,Ederson,Manchester City,Elliot Anderson,Manchester City,England Premier League,2023-2024,83.07692307692308,True,88.07692307692308
+transfermarkt,Max Kilman,Wolverhampton,Maximilian Kilman,West Ham,England Premier League,2023-2024,85.5,False,85.5
+transfermarkt,Danilo Santos,Nottingham Forest,Danilo,Botafogo,England Premier League,2023-2024,90.0,False,90.0
+transfermarkt,Toti Gomes,Wolverhampton,Toti,Wolverhampton Wanderers,England Premier League,2023-2024,90.0,False,90.0
+transfermarkt,Yehor Yarmoliuk,Brentford,Yegor Yarmolyuk,Brentford,England Premier League,2023-2024,86.66666666666667,True,91.66666666666667
+transfermarkt,Trent Alexander-Arnold,Liverpool FC,Alexander Isak,Liverpool,England Premier League,2024-2025,85.5,True,90.5
+transfermarkt,Abdul Fatawu Issahaku,Leicester City,Abdul Fatawu,Ipswich,England Premier League,2024-2025,90.0,False,90.0
+transfermarkt,Marc Cucurella,Chelsea,Marc Guiu,Chelsea,England Premier League,2024-2025,85.5,True,90.5
+transfermarkt,Ederson,Manchester City,Elliot Anderson,Manchester City,England Premier League,2024-2025,83.07692307692308,True,88.07692307692308
+transfermarkt,Kostas Tsimikas,Liverpool FC,Konstantinos Tsimikas,Liverpool,England Premier League,2024-2025,83.33333333333334,True,88.33333333333334
+transfermarkt,Max Kilman,West Ham United,Maximilian Kilman,West Ham,England Premier League,2024-2025,85.5,False,85.5
+transfermarkt,Toti Gomes,Wolverhampton,Toti,Wolverhampton Wanderers,England Premier League,2024-2025,90.0,False,90.0
+transfermarkt,Yehor Yarmoliuk,Brentford,Yegor Yarmolyuk,Brentford,England Premier League,2024-2025,86.66666666666667,True,91.66666666666667
+transfermarkt,Charlie Taylor,Southampton,Taylor Harwood-Bellis,Southampton,England Premier League,2024-2025,85.5,True,90.5
+transfermarkt,Danilo Santos,Nottingham Forest,Danilo,Botafogo,England Premier League,2024-2025,90.0,False,90.0
+transfermarkt,William Alves,Leicester City,Will Alves,Leicester,England Premier League,2024-2025,86.95652173913044,False,86.95652173913044
+transfermarkt,Đorđe Petrović,Bournemouth,Djordje Petrovic,Bournemouth,England Premier League,2025-2026,82.75862068965517,True,87.75862068965517
+transfermarkt,Yehor Yarmoliuk,Brentford,Yegor Yarmolyuk,Brentford,England Premier League,2025-2026,86.66666666666667,True,91.66666666666667
+transfermarkt,Marc Cucurella,Chelsea,Marc Guiu,Chelsea,England Premier League,2025-2026,85.5,True,90.5
+transfermarkt,Jair,Nottingham Forest,Jair Cunha,Nott'm Forest,England Premier League,2025-2026,90.0,False,90.0
+transfermarkt,Max Kilman,West Ham United,Maximilian Kilman,West Ham,England Premier League,2025-2026,85.5,False,85.5
+transfermarkt,Toti Gomes,Wolverhampton,Toti,Wolverhampton Wanderers,England Premier League,2025-2026,90.0,False,90.0
+transfermarkt,Pablo Felipe,West Ham United,Pablo,West Ham,England Premier League,2025-2026,90.0,False,90.0
+transfermarkt,Sadibou Sané,Metz,Ibou Sané,FC Metz,France Ligue 1,2023-2024,85.71428571428572,True,90.71428571428572
+transfermarkt,Henrique,Olympique Lyonnais,Luis Henrique,Inter Milan,France Ligue 1,2023-2024,90.0,False,90.0
+transfermarkt,Joel Mugisha Mvuka,Lorient,Joel Mvuka,FC Lorient,France Ligue 1,2023-2024,85.5,True,90.5
+transfermarkt,Hamed Junior Traorè,Auxerre,Hamed Traoré,Genoa,France Ligue 1,2024-2025,85.5,False,85.5
+transfermarkt,Abner Vinícius,Olympique Lyonnais,Abner,Lyon,France Ligue 1,2024-2025,90.0,False,90.0
+transfermarkt,Jordan Siebatcheu,Stade de Reims,Jordan,Stade Reims,France Ligue 1,2024-2025,90.0,False,90.0
+transfermarkt,Ahmadou Bamba Dieng,Angers,Bamba Dieng,Without Club,France Ligue 1,2024-2025,90.0,False,90.0
+transfermarkt,Benjamin Old,Saint-Étienne,Ben Old,Saint-Étienne,France Ligue 1,2024-2025,85.5,True,90.5
+transfermarkt,Ange Tia,Stade de Reims,Ange Loïc N'Gatta,Grenoble,France Ligue 1,2024-2025,85.5,False,85.5
+transfermarkt,Niama Pape Sissoko,Stade de Reims,Pape Sissoko,SV Ried,France Ligue 1,2024-2025,90.0,False,90.0
+transfermarkt,Ikechukwu Orazi,Stade de Reims,Ike Orazi,Stade Reims,France Ligue 1,2024-2025,85.5,False,85.5
+transfermarkt,Sadibou Sané,Metz,Ibou Sané,FC Metz,France Ligue 1,2025-2026,85.71428571428572,True,90.71428571428572
+transfermarkt,Abner Vinícius,Olympique Lyonnais,Abner,Lyon,France Ligue 1,2025-2026,90.0,False,90.0
+transfermarkt,Hamed Junior Traorè,Olympique de Marseille,Hamed Traoré,Genoa,France Ligue 1,2025-2026,85.5,False,85.5
+transfermarkt,Stanis Idumbo Muzambo,AS Monaco,Stanis Idumbo,Monaco,France Ligue 1,2025-2026,90.0,False,90.0
+transfermarkt,Conrad Jaden Egan-Riley,Olympique de Marseille,Matt O'Riley,Brighton,France Ligue 1,2025-2026,85.5,False,85.5
+transfermarkt,Joel Mugisha Mvuka,Lorient,Joel Mvuka,FC Lorient,France Ligue 1,2025-2026,85.5,True,90.5
+transfermarkt,Ugo Lamare El Kadmiri,Olympique de Marseille,Ugo Kadmiri,Marseille B,France Ligue 1,2025-2026,85.5,False,85.5

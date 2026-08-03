@@ -190,7 +190,10 @@ def prepare_sofascore_match_aggregates(raw_dir: Path, min_minutes: int = 1) -> p
     df["name_norm"] = df["player_name"].map(normalise_text)
     df["team_norm"] = df["team_name"].map(normalise_text)
 
-    group_cols = ["player_id", "player_name", "team_name", "competition", "season", "name_norm", "team_norm"]
+    # Preserve the SofaScore source player identifier. The generic
+    # `player_id` name is reserved for the master ID created later.
+    df = df.rename(columns={"player_id": "match_player_id"})
+    group_cols = ["match_player_id", "player_name", "team_name", "competition", "season", "name_norm", "team_norm"]
     available_sum = [c for c in MATCH_SUM_COLUMNS if c in df.columns]
 
     agg_spec = {c: "sum" for c in available_sum}
@@ -370,7 +373,14 @@ def exact_join(base: pd.DataFrame, other: pd.DataFrame, source_name: str) -> tup
         if c not in {"player_name", "team_name", "competition", "season", "name_norm", "team_norm", "_merge_key"}
     ]
     merged = base.merge(other[["_merge_key"] + payload], on="_merge_key", how="left")
-    marker = payload[0] if payload else None
+    source_markers = {
+        "sofascore_match": "match_player_id",
+        "understat": "understat_id",
+        "transfermarkt": "tm_id",
+    }
+    marker = source_markers.get(source_name)
+    if marker not in merged.columns:
+        marker = payload[0] if payload else None
     matched_mask = merged[marker].notna() if marker else pd.Series(False, index=merged.index)
 
     audit = pd.DataFrame([{

@@ -1,0 +1,9 @@
+check,status,failure_rows,detail
+player_season_id_unique,PASS,0,One row per player-team-competition-season.
+player_name_present,PASS,0,Player name must be populated.
+team_present,PASS,0,Team must be populated.
+competition_present,PASS,0,Competition must be populated.
+season_present,PASS,0,Season must be populated.
+minutes_non_negative,PASS,0,Minutes cannot be negative.
+height_plausible,PASS,0,Height expected between 1.45m and 2.20m.
+market_value_non_negative,PASS,0,Market value cannot be negative.

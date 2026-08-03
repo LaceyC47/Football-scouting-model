@@ -1,0 +1,13 @@
+metric,value
+rows,18968.0
+unique_players,8310.0
+competitions,10.0
+seasons,3.0
+with_sofascore_season,18968.0
+with_sofascore_match,0.0
+with_understat,7856.0
+with_transfermarkt,3832.0
+with_clubelo,9257.0
+with_height,18818.0
+with_market_value,18465.0
+average_source_count,2.104

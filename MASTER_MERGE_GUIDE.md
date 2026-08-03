@@ -43,3 +43,11 @@ reports\merge
 ```
 
 Upload the files in `reports\merge` after the run. The audit will tell us the true matching and coverage rates before we use the dataset for modelling.
+
+## v1.3 fix
+
+Fixed duplicate `_source_file` columns during sequential merges.
+
+## v1.3 fix
+
+Fixed SofaScore match-source identification and coverage reporting.

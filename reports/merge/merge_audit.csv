@@ -1,0 +1,7 @@
+source,method,matched_rows,base_rows,match_rate
+sofascore_match,exact_name_team_league_season,18956,18973,99.91
+sofascore_match,conservative_fuzzy,2,18973,0.01
+understat,exact_name_team_league_season,5650,18973,29.78
+understat,conservative_fuzzy,2206,18973,11.63
+transfermarkt,exact_name_team_league_season,1406,18973,7.41
+transfermarkt,conservative_fuzzy,2426,18973,12.79
