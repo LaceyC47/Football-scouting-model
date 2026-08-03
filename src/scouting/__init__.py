@@ -1,1 +1,1 @@
-"""Scouting package."""
+"""Scouting data inventory tools."""

@@ -1,0 +1,8 @@
+{
+  "raw_data_directory": "C:/Users/calum/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages/data/raw",
+  "output_directory": "reports/inventory",
+  "include_patterns": [
+    "*.parquet"
+  ],
+  "sample_rows_per_file": 5
+}
