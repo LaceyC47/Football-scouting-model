@@ -346,6 +346,16 @@ def exact_join(base: pd.DataFrame, other: pd.DataFrame, source_name: str) -> tup
 
     base = base.copy()
     other = other.copy()
+
+    # Raw source tables all contain a generic traceability column. Rename it
+    # before each join so sequential merges never create duplicate suffixes.
+    if "_source_file" in other.columns:
+        source_file_column = f"{source_name}_source_file"
+        if source_file_column in other.columns:
+            other = other.drop(columns=["_source_file"])
+        else:
+            other = other.rename(columns={"_source_file": source_file_column})
+
     base["_merge_key"] = make_match_key(base, "player_name", "team_name", "competition", "season")
     other["_merge_key"] = make_match_key(other, "player_name", "team_name", "competition", "season")
 
